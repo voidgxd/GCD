@@ -26,6 +26,7 @@
 		AB480FAB29FBD61100B02522 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB480FAD29FBD61100B02522 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AB480FB329FBD74400B02522 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		AB480FB529FBE80A00B02522 /* Barriers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Barriers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +62,7 @@
 				AB480F9F29FBD61000B02522 /* AppDelegate.swift */,
 				AB480FA129FBD61000B02522 /* SceneDelegate.swift */,
 				AB480FA329FBD61000B02522 /* ViewController.swift */,
+				AB480FB529FBE80A00B02522 /* Barriers.playground */,
 				AB480FB329FBD74400B02522 /* SecondViewController.swift */,
 				AB480FA529FBD61000B02522 /* Main.storyboard */,
 				AB480FA829FBD61100B02522 /* Assets.xcassets */,
